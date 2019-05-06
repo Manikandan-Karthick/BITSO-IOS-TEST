@@ -43,7 +43,7 @@ Please install : pod 'SVProgressHUD'
 ## BookCell.swift : 
       This is a tableViewCell class and its displays Book name and Last Price, this class objects has been displayed in BooksAndPriceListViewCntroller's tableView.
       
-## BooksDetailViewController.swift :
+## BookDetailViewController.swift :
       In this class displaying the selected Book's name, Last price,bid,Ask,low,high,24hr Volume and Spread .
 
 ## Book.swift :
